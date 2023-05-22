@@ -1,0 +1,50 @@
+
+body {
+    background-color:#454545;
+    color: #d8c3aa;
+    
+}
+
+hr{
+    background-color:#454545;
+    border-style:dotted none none ;
+    border-width:11px;
+    width: 150px;
+    align-items: center;
+    border-color: rgb(255, 201, 101);
+}
+
+img{
+    height: 250px;
+    border-style:ridge ;
+    border-radius: 50%;
+    border: 8px solid black;
+    border-color:#ff73013a;
+    overflow: hidden;
+}
+
+h3{
+    color:#c2651a
+}
+
+h1,h2{
+    color: #FFA559  ;
+}
+h2:hover{
+    color: #ff7300;
+}
+h1:hover{
+    color: #ff7300;
+}
+h2::after{
+    color: #537FE7;
+}
+
+a{
+    color: rgb(255, 102, 0);
+    text-decoration:wavy;
+}
+
+a:hover{
+    color:rgb(179, 2, 2);
+}
