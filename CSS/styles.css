@@ -28,13 +28,13 @@ h3{
 }
 
 h1,h2{
-    color: #FFA559  ;
+    color: #ff7300  ;
 }
 h2:hover{
-    color: #ff7300;
+    color: #FFA559;
 }
 h1:hover{
-    color: #ff7300;
+    color: #FFA559;
 }
 h2::after{
     color: #537FE7;
@@ -46,5 +46,6 @@ a{
 }
 
 a:hover{
-    color:rgb(179, 2, 2);
+    color:rgb(156, 60, 5);
+    text-decoration:underline;
 }
